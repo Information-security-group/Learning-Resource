@@ -1,0 +1,52 @@
+Top 20 Crypto and Security Conferences
+http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking-history.html
+
+NDSS 2013
+http://www.internetsociety.org/events/ndss-symposium-2013/ndss-2013-programme
+ 
+USENIX  USENIX Security '14; August 20¨C22, 2014, in San Diego, CA
+https://www.usenix.org/conference/usenixsecurity14
+
+NDSI 2013:
+https://www.usenix.org/conference/nsdi13/tech-schedule/technical-sessions
+ 
+CCS 2015 Accepted paper:
+https://www.sigsac.org/ccs/CCS2015/pro_paper.html
+
+Impact of Integrity Attacks on Real-Time Pricing in Smart Grids
+Geo-Indistinguishability: Differential Privacy for Location-Based Systems
+Privacy-Preserving Matrix Factorization
+Blackbox traceable CP-ABE: how to catch people leaking their keys by selling decryption devices on ebay
+Practical Constructions and New Proof Methods for Large Universe Attribute-Based Encryption
+Membership Privacy: A Unifying Framework For Privacy Definitions
+http://www.sigsac.org/ccs/CCS2013/program/accepted-papers/
+http://www.sigsac.org/ccs/CCS2012/paper_list.shtml
+ 
+EUROENCRYPT 2012
+http://www.cs.bris.ac.uk/eurocrypt2012/program.jsp
+
+SIGCOMM 2013
+http://conferences.sigcomm.org/sigcomm/2013/program.php
+http://conferences.sigcomm.org/sigcomm/2012/#/sigcomm/2012/program.php
+
+Mobicom 2012
+http://www.sigmobile.org/mobicom/2012/program.html
+ 
+Mobihoc 2012
+http://www.sigmobile.org/mobihoc/2012/program.html
+ 
+Mobisys 2012
+http://www.sigmobile.org/mobisys/2012/program.php
+ 
+ICNP 2012
+https://icnp12.cs.umd.edu/program/index.html
+ 
+Infocom 2013
+Main Conference:
+http://infocom.di.unimi.it/index.php/maintechnicalprogram.html
+ 
+PKC 2012
+http://pkc2012.cased.de/program.html
+ 
+IEEE S&P 2012
+http://www.ieee-security.org/TC/SP2012/program.html

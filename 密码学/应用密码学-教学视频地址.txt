@@ -1,0 +1,58 @@
+部分《应用密码学》教学网址
+
+哈希
+http://c.open.163.com/search/search.htm?query=%E5%93%88%E5%B8%8C&enc=%E2%84%A2#/search/all
+
+1、密码的重要性
+密码大战福尔摩斯破凯撒
+http://open.163.com/movie/2012/3/J/Q/M7SRJTBH2_M9R4OEJJQ.html
+
+0、可汗学院公开课：古代密码学
+http://open.163.com/special/Khan/ancientcryptography.html
+
+1、现代密码学
+http://v.163.com/special/Khan/moderncryptography.html
+
+2、密码的奥秘
+http://open.163.com/special/cuvocw/mimadeaomi.html
+
+RC4
+https://www.youtube.com/watch?v=riIp6EQOJOg
+
+
+SHA-512：
+http://andy-yao.me/2015/05/21/sha512%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0/
+
+可汗学院（RSA）
+http://c.open.163.com/search/search.htm?query=RSA&enc=%E2%84%A2#/search/all
+
+http://open.163.com/khan/
+
+https://www.youtube.com/watch?v=UjIPMJd6Xks（step5）
+
+现代密码学
+http://v.163.com/special/Khan/moderncryptography.html（全）
+
+
+
+https://www.youtube.com/watch?v=d8MtmKrXlKQ （ 攻击WPA和TLS中的RC4 的过程）
+
+https://www.youtube.com/watch?v=KM-xZYZXElk （ RC4 加密过程，演示）
+
+
+https://www.youtube.com/watch?v=7GdymmVsxHU （1轮 DES 编程，C#）
+
+https://www.youtube.com/watch?v=xhiCHnQy8JM （1轮 DES ）
+
+https://www.youtube.com/watch?v=6mihs90pVnk（DES解密，台湾）
+
+https://www.youtube.com/watch?v=WBZ9bb1jDZY（ DES 加密过程，演示）
+
+
+
+https://www.youtube.com/watch?v=VdE21ku7SMs （DES Encryption using OpenSSL）
+
+
+https://www.youtube.com/watch?v=wfknkxwtQM4 （AES 编程，C#） 
+
+https://www.youtube.com/watch?v=zqbyTYMAKqI  （AES using OpenSSL）
