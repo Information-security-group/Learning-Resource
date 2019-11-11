@@ -7,7 +7,7 @@
 
 目前收集了关于[**学习方法**](#LearningMethod)、[**密码学**](#Cryptography)、[**区块链**](#BlockChain)、[**CTF**](#CTF)等几个方面的内容。
 
-
+PS. 底部有一些「有用/有趣」的 [Github 项目分享](#一些有用有趣的-github-项目)
 
 ### 学习方法
 
@@ -39,8 +39,17 @@
 
 主要包括一些CTF的培训资料。
 
-
-
 ### 其他
 
 欢迎大家更新其他学习资源。
+
+### 一些「有用/有趣」的 Github 项目
+
+* [简单粗暴 TensorFlow 2.0](https://github.com/snowkylin/tensorflow-handbook)
+* [李宏毅机器学习笔记 (LeeML-Notes)](https://github.com/datawhalechina/leeml-notes)
+* [研究生数学建模资源](https://github.com/zhanwen/MathModel)
+* [深度学习 500 问](https://github.com/scutan90/DeepLearning-500-questions)
+* [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
+* [吴恩达老师的机器学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+* [有趣的 Python 爬虫](https://github.com/Alfred1984/interesting-python)
+* ...
